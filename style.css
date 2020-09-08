@@ -76,7 +76,7 @@ header .container .menu-icon{
   float: left;
   width: 100%;
   height: 600px;
-  background: url("Background.jpg");
+  background: url("/Proyek1/assets/image/Background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom:100px;
@@ -85,34 +85,17 @@ header .container .menu-icon{
 
 .top-content .container {
   margin-top: 100px; 
-  margin-left: 40px;
-  text-align: left;
-  display: inline-block;      
+  margin-left: 40px;  
+  text-align: center;  
   color: white;
 }
 
-.top-content .container h2{
-  width: 40%;
+.top-content .container h2{  
   margin-top:100px;
+  letter-spacing: 5px;
   float:left;
 }
 
-.icon {    
-  float: right;
-  width: 40%;
-  border: 1px solid #fff;
-  padding: 20px;
-  border-radius: 10px;
-  margin-top: 80px;
-  margin-right: 30px;
-  position: relative;  
-}
-
-.icon-image {
-  height: 100%;
-  width: 100%;
-  margin:auto;
-}
 
 /*Main*/
 
