@@ -76,7 +76,7 @@ header .container .menu-icon{
   float: left;
   width: 100%;
   height: 600px;
-  background: url("Background.jpg");
+  background: url("/Proyek1/assets/image/Background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom:100px;
@@ -84,8 +84,9 @@ header .container .menu-icon{
 }
 
 .top-content .container {
-  margin-top: 100px; 
-  margin-left: 40px;  
+  margin-top: 100px;
+  width: 80%; 
+  margin: 100px auto;  
   text-align: center;  
   color: white;
 }
